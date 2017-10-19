@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    background-color: royalblue;
+    width: 90%;
+    height: 90%;
+} 
+
+.one, .two {
+    background: #8dc7eb;
+    width: 300px;
+    height: 150px;
+    margin: 20px auto;
