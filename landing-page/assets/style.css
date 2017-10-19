@@ -109,3 +109,7 @@ footer{
     font: 1.5em sans-serif;
     text-indent: -25%;
 }
+
+.glyphicon{
+    top: 0px;
+}
